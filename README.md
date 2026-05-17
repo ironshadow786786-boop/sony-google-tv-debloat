@@ -64,16 +64,6 @@ These packages look like bloat but will cause a boot loop if removed. Your TV wi
 | `com.google.android.tts` | Text to speech engine, tied to deeper system functions than it appears |
 | `com.android.location.fused` | Core Android location service, causes boot loop despite appearing to be simple bloat |
 
----
-
-## If Your TV Boot Loops
-
-If you removed something you shouldn't have, do a factory reset:
-
-1. Unplug the TV from the wall
-2. Press and hold the **power button on the TV itself** (not the remote)
-3. While holding, plug the power cable back in
-4. Hold for 10-15 seconds until you see a green LED or recovery screen
 
 ---
 
